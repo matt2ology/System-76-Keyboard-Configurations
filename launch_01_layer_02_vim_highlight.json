@@ -1,0 +1,747 @@
+{
+  "model": "system76/launch_1",
+  "version": 1,
+  "map": {
+    "K00": [
+      "ESC",
+      "ESC",
+      "ROLL_OVER",
+      "ROLL_OVER"
+    ],
+    "K01": [
+      "F1",
+      "ROLL_OVER",
+      "ROLL_OVER",
+      "ROLL_OVER"
+    ],
+    "K02": [
+      "F2",
+      "ROLL_OVER",
+      "ROLL_OVER",
+      "ROLL_OVER"
+    ],
+    "K03": [
+      "F3",
+      "ROLL_OVER",
+      "ROLL_OVER",
+      "ROLL_OVER"
+    ],
+    "K04": [
+      "F4",
+      "ROLL_OVER",
+      "ROLL_OVER",
+      "ROLL_OVER"
+    ],
+    "K05": [
+      "F5",
+      "ROLL_OVER",
+      "ROLL_OVER",
+      "ROLL_OVER"
+    ],
+    "K06": [
+      "F6",
+      "ROLL_OVER",
+      "ROLL_OVER",
+      "ROLL_OVER"
+    ],
+    "K07": [
+      "F7",
+      "ROLL_OVER",
+      "ROLL_OVER",
+      "ROLL_OVER"
+    ],
+    "K08": [
+      "F8",
+      "ROLL_OVER",
+      "ROLL_OVER",
+      "ROLL_OVER"
+    ],
+    "K09": [
+      "F9",
+      "ROLL_OVER",
+      "ROLL_OVER",
+      "ROLL_OVER"
+    ],
+    "K0A": [
+      "F10",
+      "ROLL_OVER",
+      "ROLL_OVER",
+      "ROLL_OVER"
+    ],
+    "K0B": [
+      "F11",
+      "ROLL_OVER",
+      "ROLL_OVER",
+      "ROLL_OVER"
+    ],
+    "K0C": [
+      "F12",
+      "ROLL_OVER",
+      "ROLL_OVER",
+      "ROLL_OVER"
+    ],
+    "K0D": [
+      "DEL",
+      "ROLL_OVER",
+      "ROLL_OVER",
+      "ROLL_OVER"
+    ],
+    "K0E": [
+      "HOME",
+      "ROLL_OVER",
+      "PLAY_PAUSE",
+      "ROLL_OVER"
+    ],
+    "K10": [
+      "TICK",
+      "TICK",
+      "ROLL_OVER",
+      "ROLL_OVER"
+    ],
+    "K11": [
+      "1",
+      "ROLL_OVER",
+      "ROLL_OVER",
+      "ROLL_OVER"
+    ],
+    "K12": [
+      "2",
+      "ROLL_OVER",
+      "ROLL_OVER",
+      "ROLL_OVER"
+    ],
+    "K13": [
+      "3",
+      "ROLL_OVER",
+      "ROLL_OVER",
+      "ROLL_OVER"
+    ],
+    "K14": [
+      "4",
+      "4",
+      "ROLL_OVER",
+      "ROLL_OVER"
+    ],
+    "K15": [
+      "5",
+      "5",
+      "ROLL_OVER",
+      "ROLL_OVER"
+    ],
+    "K16": [
+      "6",
+      "6",
+      "ROLL_OVER",
+      "ROLL_OVER"
+    ],
+    "K17": [
+      "7",
+      "ROLL_OVER",
+      "ROLL_OVER",
+      "ROLL_OVER"
+    ],
+    "K18": [
+      "8",
+      "ROLL_OVER",
+      "ROLL_OVER",
+      "ROLL_OVER"
+    ],
+    "K19": [
+      "9",
+      "ROLL_OVER",
+      "ROLL_OVER",
+      "ROLL_OVER"
+    ],
+    "K1A": [
+      "0",
+      "0",
+      "KBD_TOGGLE",
+      "ROLL_OVER"
+    ],
+    "K1B": [
+      "MINUS",
+      "ROLL_OVER",
+      "KBD_DOWN",
+      "ROLL_OVER"
+    ],
+    "K1C": [
+      "EQUALS",
+      "ROLL_OVER",
+      "KBD_UP",
+      "ROLL_OVER"
+    ],
+    "K1D": [
+      "BKSP",
+      "ROLL_OVER",
+      "ROLL_OVER",
+      "ROLL_OVER"
+    ],
+    "K1E": [
+      "PGUP",
+      "ROLL_OVER",
+      "VOLUME_UP",
+      "ROLL_OVER"
+    ],
+    "K20": [
+      "TAB",
+      "ROLL_OVER",
+      "PRINT_SCREEN",
+      "ROLL_OVER"
+    ],
+    "K21": [
+      "Q",
+      "ROLL_OVER",
+      "ROLL_OVER",
+      "ROLL_OVER"
+    ],
+    "K22": [
+      "W",
+      "W",
+      "ROLL_OVER",
+      "ROLL_OVER"
+    ],
+    "K23": [
+      "E",
+      "E",
+      "ROLL_OVER",
+      "ROLL_OVER"
+    ],
+    "K24": [
+      "R",
+      "R",
+      "ROLL_OVER",
+      "ROLL_OVER"
+    ],
+    "K25": [
+      "T",
+      "ROLL_OVER",
+      "ROLL_OVER",
+      "ROLL_OVER"
+    ],
+    "K26": [
+      "Y",
+      "Y",
+      "ROLL_OVER",
+      "ROLL_OVER"
+    ],
+    "K27": [
+      "U",
+      "U",
+      "HOME",
+      "ROLL_OVER"
+    ],
+    "K28": [
+      "I",
+      "I",
+      "PGDN",
+      "ROLL_OVER"
+    ],
+    "K29": [
+      "O",
+      "O",
+      "PGUP",
+      "ROLL_OVER"
+    ],
+    "K2A": [
+      "P",
+      "P",
+      "END",
+      "ROLL_OVER"
+    ],
+    "K2B": [
+      "BRACE_OPEN",
+      "ROLL_OVER",
+      "ROLL_OVER",
+      "ROLL_OVER"
+    ],
+    "K2C": [
+      "BRACE_CLOSE",
+      "ROLL_OVER",
+      "ROLL_OVER",
+      "ROLL_OVER"
+    ],
+    "K2D": [
+      "BACKSLASH",
+      "ROLL_OVER",
+      "ROLL_OVER",
+      "ROLL_OVER"
+    ],
+    "K2E": [
+      "PGDN",
+      "ROLL_OVER",
+      "VOLUME_DOWN",
+      "ROLL_OVER"
+    ],
+    "K30": [
+      "CAPS",
+      "ESC",
+      "ROLL_OVER",
+      "ROLL_OVER"
+    ],
+    "K31": [
+      "A",
+      "A",
+      "ROLL_OVER",
+      "ROLL_OVER"
+    ],
+    "K32": [
+      "S",
+      "S",
+      "ROLL_OVER",
+      "ROLL_OVER"
+    ],
+    "K33": [
+      "D",
+      "D",
+      "ROLL_OVER",
+      "ROLL_OVER"
+    ],
+    "K34": [
+      "F",
+      "F",
+      "ROLL_OVER",
+      "ROLL_OVER"
+    ],
+    "K35": [
+      "G",
+      "G",
+      "ROLL_OVER",
+      "ROLL_OVER"
+    ],
+    "K36": [
+      "H",
+      "H",
+      "ROLL_OVER",
+      "ROLL_OVER"
+    ],
+    "K37": [
+      "J",
+      "J",
+      "LEFT",
+      "ROLL_OVER"
+    ],
+    "K38": [
+      "K",
+      "K",
+      "DOWN",
+      "ROLL_OVER"
+    ],
+    "K39": [
+      "L",
+      "L",
+      "UP",
+      "ROLL_OVER"
+    ],
+    "K3A": [
+      "SEMICOLON",
+      "ROLL_OVER",
+      "RIGHT",
+      "ROLL_OVER"
+    ],
+    "K3B": [
+      "QUOTE",
+      "ROLL_OVER",
+      "ROLL_OVER",
+      "ROLL_OVER"
+    ],
+    "K3C": [
+      "ENTER",
+      "ROLL_OVER",
+      "ROLL_OVER",
+      "ROLL_OVER"
+    ],
+    "K3D": [
+      "END",
+      "ROLL_OVER",
+      "MUTE",
+      "ROLL_OVER"
+    ],
+    "K40": [
+      "LEFT_SHIFT",
+      "ROLL_OVER",
+      "ROLL_OVER",
+      "ROLL_OVER"
+    ],
+    "K41": [
+      "Z",
+      "ROLL_OVER",
+      "ROLL_OVER",
+      "ROLL_OVER"
+    ],
+    "K42": [
+      "X",
+      "X",
+      "ROLL_OVER",
+      "ROLL_OVER"
+    ],
+    "K43": [
+      "C",
+      "C",
+      "ROLL_OVER",
+      "ROLL_OVER"
+    ],
+    "K44": [
+      "V",
+      "ROLL_OVER",
+      "ROLL_OVER",
+      "ROLL_OVER"
+    ],
+    "K45": [
+      "B",
+      "B",
+      "ROLL_OVER",
+      "ROLL_OVER"
+    ],
+    "K46": [
+      "N",
+      "N",
+      "ROLL_OVER",
+      "ROLL_OVER"
+    ],
+    "K47": [
+      "M",
+      "M",
+      "ROLL_OVER",
+      "ROLL_OVER"
+    ],
+    "K48": [
+      "COMMA",
+      "ROLL_OVER",
+      "ROLL_OVER",
+      "ROLL_OVER"
+    ],
+    "K49": [
+      "PERIOD",
+      "ROLL_OVER",
+      "ROLL_OVER",
+      "ROLL_OVER"
+    ],
+    "K4A": [
+      "SLASH",
+      "ROLL_OVER",
+      "ROLL_OVER",
+      "ROLL_OVER"
+    ],
+    "K4B": [
+      "RIGHT_SHIFT",
+      "ROLL_OVER",
+      "ROLL_OVER",
+      "ROLL_OVER"
+    ],
+    "K4C": [
+      "UP",
+      "ROLL_OVER",
+      "ROLL_OVER",
+      "ROLL_OVER"
+    ],
+    "K50": [
+      "LEFT_CTRL",
+      "ROLL_OVER",
+      "ROLL_OVER",
+      "ROLL_OVER"
+    ],
+    "K51": [
+      "LEFT_SUPER",
+      "LEFT_SUPER",
+      "ROLL_OVER",
+      "ROLL_OVER"
+    ],
+    "K52": [
+      "LAYER_ACCESS_3",
+      "LAYER_ACCESS_3",
+      "LAYER_SWITCH_2",
+      "ROLL_OVER"
+    ],
+    "K53": [
+      "LEFT_ALT",
+      "LEFT_ALT",
+      "ROLL_OVER",
+      "ROLL_OVER"
+    ],
+    "K54": [
+      "SPACE",
+      "BKSP",
+      "ROLL_OVER",
+      "ROLL_OVER"
+    ],
+    "K55": [
+      "SPACE",
+      "SPACE",
+      "ROLL_OVER",
+      "ROLL_OVER"
+    ],
+    "K56": [
+      "RIGHT_CTRL",
+      "RIGHT_CTRL",
+      "ROLL_OVER",
+      "ROLL_OVER"
+    ],
+    "K57": [
+      "RIGHT_ALT",
+      "ROLL_OVER",
+      "ROLL_OVER",
+      "ROLL_OVER"
+    ],
+    "K58": [
+      "LAYER_SWITCH_2",
+      "LAYER_SWITCH_1",
+      "NONE",
+      "ROLL_OVER"
+    ],
+    "K59": [
+      "LEFT",
+      "ROLL_OVER",
+      "ROLL_OVER",
+      "ROLL_OVER"
+    ],
+    "K5A": [
+      "DOWN",
+      "ROLL_OVER",
+      "ROLL_OVER",
+      "ROLL_OVER"
+    ],
+    "K5B": [
+      "RIGHT",
+      "ROLL_OVER",
+      "ROLL_OVER",
+      "ROLL_OVER"
+    ]
+  },
+  "key_leds": {
+    "K00": [
+      89,
+      255
+    ],
+    "K01": null,
+    "K02": null,
+    "K03": null,
+    "K04": null,
+    "K05": null,
+    "K06": null,
+    "K07": null,
+    "K08": null,
+    "K09": null,
+    "K0A": null,
+    "K0B": null,
+    "K0C": null,
+    "K0D": null,
+    "K0E": null,
+    "K10": [
+      0,
+      255
+    ],
+    "K11": null,
+    "K12": null,
+    "K13": null,
+    "K14": [
+      85,
+      255
+    ],
+    "K15": [
+      85,
+      255
+    ],
+    "K16": [
+      85,
+      255
+    ],
+    "K17": null,
+    "K18": null,
+    "K19": null,
+    "K1A": [
+      85,
+      255
+    ],
+    "K1B": null,
+    "K1C": null,
+    "K1D": null,
+    "K1E": null,
+    "K20": null,
+    "K21": null,
+    "K22": [
+      85,
+      255
+    ],
+    "K23": [
+      85,
+      255
+    ],
+    "K24": [
+      0,
+      255
+    ],
+    "K25": null,
+    "K26": [
+      0,
+      255
+    ],
+    "K27": [
+      0,
+      255
+    ],
+    "K28": [
+      195,
+      255
+    ],
+    "K29": [
+      195,
+      255
+    ],
+    "K2A": [
+      0,
+      255
+    ],
+    "K2B": null,
+    "K2C": null,
+    "K2D": null,
+    "K2E": null,
+    "K30": [
+      85,
+      255
+    ],
+    "K31": [
+      195,
+      255
+    ],
+    "K32": [
+      0,
+      255
+    ],
+    "K33": [
+      0,
+      255
+    ],
+    "K34": [
+      85,
+      255
+    ],
+    "K35": [
+      85,
+      255
+    ],
+    "K36": [
+      85,
+      255
+    ],
+    "K37": [
+      85,
+      255
+    ],
+    "K38": [
+      85,
+      255
+    ],
+    "K39": [
+      85,
+      255
+    ],
+    "K3A": null,
+    "K3B": null,
+    "K3C": null,
+    "K3D": null,
+    "K40": null,
+    "K41": null,
+    "K42": [
+      0,
+      255
+    ],
+    "K43": [
+      195,
+      255
+    ],
+    "K44": [
+      43,
+      255
+    ],
+    "K45": [
+      85,
+      255
+    ],
+    "K46": [
+      85,
+      255
+    ],
+    "K47": [
+      85,
+      255
+    ],
+    "K48": null,
+    "K49": null,
+    "K4A": null,
+    "K4B": null,
+    "K4C": null,
+    "K50": null,
+    "K51": [
+      0,
+      0
+    ],
+    "K52": [
+      0,
+      0
+    ],
+    "K53": [
+      0,
+      0
+    ],
+    "K54": null,
+    "K55": null,
+    "K56": [
+      85,
+      255
+    ],
+    "K57": null,
+    "K58": [
+      0,
+      0
+    ],
+    "K59": null,
+    "K5A": null,
+    "K5B": null
+  },
+  "layers": [
+    {
+      "mode": [
+        4,
+        106
+      ],
+      "brightness": 176,
+      "color": [
+        142,
+        255
+      ]
+    },
+    {
+      "mode": [
+        1,
+        127
+      ],
+      "brightness": 176,
+      "color": [
+        86,
+        255
+      ]
+    },
+    {
+      "mode": [
+        13,
+        127
+      ],
+      "brightness": 176,
+      "color": [
+        0,
+        255
+      ]
+    },
+    {
+      "mode": [
+        0,
+        127
+      ],
+      "brightness": 176,
+      "color": [
+        142,
+        255
+      ]
+    }
+  ]
+}
